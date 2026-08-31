@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lead Scraper Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', "Liberation Mono", "Courier New", 'monospace'],
+                    },
+                    colors: {
+                        dark: '#0a0a0a',
+                        darker: '#000000',
+                        accent: '#8b5cf6',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { background-color: #0a0a0a; color: #e2e8f0; }
+        .glass { background: rgba(18, 18, 18, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.05); }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #0a0a0a; }
+        ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col font-sans antialiased">
+    
+    <nav class="glass sticky top-0 z-50 px-6 py-4 flex justify-between items-center border-b border-white/10">
+        <div class="flex items-center gap-3">
+            <div class="w-8 h-8 rounded-lg bg-accent/20 flex items-center justify-center border border-accent/30">
+                <svg class="w-5 h-5 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+            </div>
+            <h1 class="text-xl font-bold tracking-tight text-white">Scraper Engine</h1>
+        </div>
+        <div class="flex items-center gap-6 text-sm">
+            <div class="flex items-center gap-2">
+                <span class="text-gray-400">Target:</span>
+                <span class="font-mono font-bold text-white bg-white/10 px-2 py-1 rounded" id="target-count">20,000</span>
+            </div>
+            <div class="flex items-center gap-2">
+                <span class="text-gray-400">Extracted:</span>
+                <span class="font-mono font-bold text-emerald-400 bg-emerald-400/10 px-2 py-1 rounded" id="total-links">0</span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-1 p-6 grid grid-cols-1 lg:grid-cols-12 gap-6 max-w-7xl mx-auto w-full">
+        
+        <!-- Scrapers Control Panel -->
+        <div class="lg:col-span-4 flex flex-col gap-4">
+            <h2 class="text-lg font-semibold text-white mb-2 flex items-center gap-2">
+                <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path></svg>
+                Category Runners
+            </h2>
+            
+            <div class="glass rounded-xl p-4 flex flex-col gap-3" id="scraper-cnc_machining">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium">CNC Machining</span>
+                    <span class="status-indicator text-xs font-mono px-2 py-1 rounded bg-gray-500/20 text-gray-400">STOPPED</span>
+                </div>
+                <div class="flex gap-2">
+                    <button onclick="startScraper('cnc_machining')" class="flex-1 bg-white/5 hover:bg-white/10 text-white py-2 rounded-lg text-sm font-medium transition-colors border border-white/10">Start</button>
+                    <button onclick="stopScraper('cnc_machining')" class="flex-1 bg-red-500/10 hover:bg-red-500/20 text-red-400 py-2 rounded-lg text-sm font-medium transition-colors border border-red-500/20">Stop</button>
+                </div>
+            </div>
+            
+            <div class="glass rounded-xl p-4 flex flex-col gap-3" id="scraper-injection_molding">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium">Injection Molding</span>
+                    <span class="status-indicator text-xs font-mono px-2 py-1 rounded bg-gray-500/20 text-gray-400">STOPPED</span>
+                </div>
+                <div class="flex gap-2">
+                    <button onclick="startScraper('injection_molding')" class="flex-1 bg-white/5 hover:bg-white/10 text-white py-2 rounded-lg text-sm font-medium transition-colors border border-white/10">Start</button>
+                    <button onclick="stopScraper('injection_molding')" class="flex-1 bg-red-500/10 hover:bg-red-500/20 text-red-400 py-2 rounded-lg text-sm font-medium transition-colors border border-red-500/20">Stop</button>
+                </div>
+            </div>
+            
+            <div class="glass rounded-xl p-4 flex flex-col gap-3" id="scraper-mold_manufacturing">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium">Mold Manufacturing</span>
+                    <span class="status-indicator text-xs font-mono px-2 py-1 rounded bg-gray-500/20 text-gray-400">STOPPED</span>
+                </div>
+                <div class="flex gap-2">
+                    <button onclick="startScraper('mold_manufacturing')" class="flex-1 bg-white/5 hover:bg-white/10 text-white py-2 rounded-lg text-sm font-medium transition-colors border border-white/10">Start</button>
+                    <button onclick="stopScraper('mold_manufacturing')" class="flex-1 bg-red-500/10 hover:bg-red-500/20 text-red-400 py-2 rounded-lg text-sm font-medium transition-colors border border-red-500/20">Stop</button>
+                </div>
+            </div>
+            
+            <div class="glass rounded-xl p-4 flex flex-col gap-3" id="scraper-die_casting">
+                <div class="flex justify-between items-center">
+                    <span class="font-medium">Die Casting</span>
+                    <span class="status-indicator text-xs font-mono px-2 py-1 rounded bg-gray-500/20 text-gray-400">STOPPED</span>
+                </div>
+                <div class="flex gap-2">
+                    <button onclick="startScraper('die_casting')" class="flex-1 bg-white/5 hover:bg-white/10 text-white py-2 rounded-lg text-sm font-medium transition-colors border border-white/10">Start</button>
+                    <button onclick="stopScraper('die_casting')" class="flex-1 bg-red-500/10 hover:bg-red-500/20 text-red-400 py-2 rounded-lg text-sm font-medium transition-colors border border-red-500/20">Stop</button>
+                </div>
+            </div>
+
+            <div class="glass rounded-xl p-4 flex flex-col gap-3 mt-4 border-accent/30" id="scraper-company_scraper">
+                <div class="flex justify-between items-center">
+                    <div class="flex flex-col">
+                        <span class="font-medium text-accent">Deep Link Extractor</span>
+                        <span class="text-xs text-gray-400">Reads urls_to_scrape.md for emails/socials</span>
+                    </div>
+                    <span class="status-indicator text-xs font-mono px-2 py-1 rounded bg-gray-500/20 text-gray-400">STOPPED</span>
+                </div>
+                <div class="flex gap-2">
+                    <button onclick="startScraper('company_scraper')" class="flex-1 bg-accent/10 hover:bg-accent/20 text-accent py-2 rounded-lg text-sm font-medium transition-colors border border-accent/20">Start</button>
+                    <button onclick="stopScraper('company_scraper')" class="flex-1 bg-red-500/10 hover:bg-red-500/20 text-red-400 py-2 rounded-lg text-sm font-medium transition-colors border border-red-500/20">Stop</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Logs and Results Panel -->
+        <div class="lg:col-span-8 flex flex-col gap-6">
+            
+            <!-- Terminal / Logs -->
+            <div class="flex flex-col gap-2 flex-1">
+                <div class="flex justify-between items-end">
+                    <h2 class="text-lg font-semibold text-white flex items-center gap-2">
+                        <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 9l3 3-3 3m5 0h3M4 12a8 8 0 1116 0 8 8 0 01-16 0z"></path></svg>
+                        Live Logs
+                    </h2>
+                    <select id="log-selector" class="bg-black border border-white/10 rounded px-2 py-1 text-sm outline-none">
+                        <option value="cnc_machining">CNC Machining</option>
+                        <option value="injection_molding">Injection Molding</option>
+                        <option value="mold_manufacturing">Mold Manufacturing</option>
+                        <option value="die_casting">Die Casting</option>
+                        <option value="company_scraper">Company Extractor</option>
+                    </select>
+                </div>
+                
+                <div class="glass rounded-xl border border-white/10 h-80 relative overflow-hidden bg-black/50">
+                    <div class="absolute top-0 w-full h-8 bg-black/60 border-b border-white/10 flex items-center px-4 gap-2">
+                        <div class="w-3 h-3 rounded-full bg-red-500/80"></div>
+                        <div class="w-3 h-3 rounded-full bg-yellow-500/80"></div>
+                        <div class="w-3 h-3 rounded-full bg-green-500/80"></div>
+                    </div>
+                    <pre id="log-content" class="p-4 pt-12 text-xs font-mono text-gray-300 h-full overflow-y-auto whitespace-pre-wrap"></pre>
+                </div>
+            </div>
+
+            <!-- Recent Links -->
+            <div class="flex flex-col gap-2">
+                <h2 class="text-lg font-semibold text-white flex items-center gap-2">
+                    <svg class="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path></svg>
+                    Recently Extracted Links (Preview)
+                </h2>
+                <div class="glass rounded-xl border border-white/10 p-4 bg-black/30">
+                    <ul id="recent-links" class="flex flex-col gap-2 text-sm font-mono text-blue-400">
+                        <li class="text-gray-500 italic">Waiting for data...</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <script>
+        const scrapers = ['cnc_machining', 'injection_molding', 'mold_manufacturing', 'die_casting', 'company_scraper'];
+
+        async function startScraper(name) {
+            await fetch('/api/start', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({name})
+            });
+            updateStatus();
+        }
+
+        async function stopScraper(name) {
+            await fetch('/api/stop', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({name})
+            });
+            updateStatus();
+        }
+
+        async function updateStatus() {
+            try {
+                const res = await fetch('/api/status');
+                const statuses = await res.json();
+                
+                scrapers.forEach(name => {
+                    const el = document.getElementById(`scraper-${name}`);
+                    if (!el) return;
+                    const indicator = el.querySelector('.status-indicator');
+                    
+                    if (statuses[name] === 'running') {
+                        indicator.textContent = 'RUNNING';
+                        indicator.className = 'status-indicator text-xs font-mono px-2 py-1 rounded bg-emerald-500/20 text-emerald-400 animate-pulse';
+                    } else {
+                        indicator.textContent = 'STOPPED';
+                        indicator.className = 'status-indicator text-xs font-mono px-2 py-1 rounded bg-gray-500/20 text-gray-400';
+                    }
+                });
+            } catch(e) { console.error(e); }
+        }
+
+        async function updateStats() {
+            try {
+                const res = await fetch('/api/stats');
+                const data = await res.json();
+                
+                document.getElementById('total-links').textContent = data.total_links.toLocaleString();
+                document.getElementById('target-count').textContent = data.target.toLocaleString();
+                
+                const list = document.getElementById('recent-links');
+                if (data.recent_links && data.recent_links.length > 0) {
+                    list.innerHTML = data.recent_links.map(link => `<li><a href="${link}" target="_blank" class="hover:underline">${link}</a></li>`).join('');
+                } else {
+                    list.innerHTML = `<li class="text-gray-500 italic">No links extracted yet...</li>`;
+                }
+            } catch(e) { console.error(e); }
+        }
+
+        async function updateLogs() {
+            try {
+                const selector = document.getElementById('log-selector');
+                const name = selector.value;
+                const res = await fetch(`/api/logs/${name}`);
+                const data = await res.json();
+                
+                const logBox = document.getElementById('log-content');
+                
+                // Only autoscroll if user is near bottom
+                const isNearBottom = logBox.scrollHeight - logBox.scrollTop <= logBox.clientHeight + 50;
+                
+                logBox.textContent = data.logs || "No logs available yet.";
+                
+                if (isNearBottom) {
+                    logBox.scrollTop = logBox.scrollHeight;
+                }
+            } catch(e) { console.error(e); }
+        }
+
+        // Poll every 3 seconds
+        setInterval(() => {
+            updateStatus();
+            updateStats();
+            updateLogs();
+        }, 3000);
+        
+        // Initial fetch
+        updateStatus();
+        updateStats();
+        updateLogs();
+    </script>
+</body>
+</html>

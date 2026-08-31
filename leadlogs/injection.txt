@@ -1,0 +1,985 @@
+Last login: Mon Aug 31 16:53:52 on ttys017
+source venv/bin/activate && python3 injection_molding_scraper.py
+mmx@192 cnc leadser % source venv/bin/activate && python3 injection_molding_scraper.py
+
+🧩 Starting CATEGORY 2: Injection Molding Scraper...
+📊 Initial Unique Links in links.md: 558 / Goal: 5000
+
+📋 Total Injection Molding Tasks Prepared: 424 search queries.
+
+✨ [Injection Molding | Shenzhen China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 559
+📈 [Injection Molding] Total Unique Links in links.md: 559
+📈 [Injection Molding] Total Unique Links in links.md: 559
+📈 [Injection Molding] Total Unique Links in links.md: 559
+✨ [Injection Molding | Shenzhen China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 560
+✨ [Injection Molding | Shenzhen China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 561
+📈 [Injection Molding] Total Unique Links in links.md: 561
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Shenzhen China': HTTPConnectionPool(host='localhost', port=51461): Read timed out. (read timeout=120)
+📈 [Injection Molding] Total Unique Links in links.md: 561
+📈 [Injection Molding] Total Unique Links in links.md: 561
+📈 [Injection Molding] Total Unique Links in links.md: 561
+📈 [Injection Molding] Total Unique Links in links.md: 561
+📈 [Injection Molding] Total Unique Links in links.md: 561
+✨ [Injection Molding | Dongguan China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+📈 [Injection Molding] Total Unique Links in links.md: 563
+✨ [Injection Molding | Suzhou China] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 566
+✨ [Injection Molding | Suzhou China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 568
+✨ [Injection Molding | Suzhou China] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 572
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Ningbo China': HTTPConnectionPool(host='localhost', port=53721): Read timed out. (read timeout=120)
+✨ [Injection Molding | Suzhou China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 574
+📈 [Injection Molding] Total Unique Links in links.md: 574
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Suzhou China': HTTPConnectionPool(host='localhost', port=54340): Read timed out. (read timeout=120)
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Suzhou China': HTTPConnectionPool(host='localhost', port=54397): Read timed out. (read timeout=120)
+📈 [Injection Molding] Total Unique Links in links.md: 574
+📈 [Injection Molding] Total Unique Links in links.md: 574
+✨ [Injection Molding | Shanghai China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 576
+✨ [Injection Molding | Shanghai China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 577
+📈 [Injection Molding] Total Unique Links in links.md: 577
+📈 [Injection Molding] Total Unique Links in links.md: 577
+📈 [Injection Molding] Total Unique Links in links.md: 577
+📈 [Injection Molding] Total Unique Links in links.md: 577
+✨ [Injection Molding | Shanghai China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 578
+📈 [Injection Molding] Total Unique Links in links.md: 578
+📈 [Injection Molding] Total Unique Links in links.md: 578
+📈 [Injection Molding] Total Unique Links in links.md: 578
+✨ [Injection Molding | Guangzhou China] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 581
+✨ [Injection Molding | Guangzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 582
+📈 [Injection Molding] Total Unique Links in links.md: 582
+✨ [Injection Molding | Guangzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 583
+📈 [Injection Molding] Total Unique Links in links.md: 583
+📈 [Injection Molding] Total Unique Links in links.md: 583
+📈 [Injection Molding] Total Unique Links in links.md: 583
+📈 [Injection Molding] Total Unique Links in links.md: 583
+✨ [Injection Molding | Qingdao China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 584
+✨ [Injection Molding | Qingdao China] Extracted 5 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 589
+📈 [Injection Molding] Total Unique Links in links.md: 589
+✨ [Injection Molding | Qingdao China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 591
+✨ [Injection Molding | Qingdao China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 592
+📈 [Injection Molding] Total Unique Links in links.md: 592
+📈 [Injection Molding] Total Unique Links in links.md: 592
+📈 [Injection Molding] Total Unique Links in links.md: 592
+📈 [Injection Molding] Total Unique Links in links.md: 592
+📈 [Injection Molding] Total Unique Links in links.md: 592
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Qingdao China': HTTPConnectionPool(host='localhost', port=58179): Read timed out. (read timeout=120)
+✨ [Injection Molding | Foshan China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 593
+✨ [Injection Molding | Foshan China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 595
+📈 [Injection Molding] Total Unique Links in links.md: 595
+✨ [Injection Molding | Foshan China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 596
+✨ [Injection Molding | Wenzhou China] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 599
+📈 [Injection Molding] Total Unique Links in links.md: 599
+✨ [Injection Molding | Wenzhou China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 601
+📈 [Injection Molding] Total Unique Links in links.md: 601
+✨ [Injection Molding | Wenzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 602
+📈 [Injection Molding] Total Unique Links in links.md: 602
+📈 [Injection Molding] Total Unique Links in links.md: 602
+✨ [Injection Molding | Wenzhou China] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 606
+📈 [Injection Molding] Total Unique Links in links.md: 606
+📈 [Injection Molding] Total Unique Links in links.md: 606
+📈 [Injection Molding] Total Unique Links in links.md: 606
+✨ [Injection Molding | Tianjin China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 607
+📈 [Injection Molding] Total Unique Links in links.md: 607
+✨ [Injection Molding | Tianjin China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 608
+📈 [Injection Molding] Total Unique Links in links.md: 608
+✨ [Injection Molding | Tianjin China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 610
+📈 [Injection Molding] Total Unique Links in links.md: 610
+✨ [Injection Molding | Changzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 611
+✨ [Injection Molding | Changzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 612
+✨ [Injection Molding | Changzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 613
+
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Tianjin China': HTTPConnectionPool(host='localhost', port=61896): Read timed out. (read timeout=120)
+📈 [Injection Molding] Total Unique Links in links.md: 613
+✨ [Injection Molding | Changzhou China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 614
+📈 [Injection Molding] Total Unique Links in links.md: 614
+📈 [Injection Molding] Total Unique Links in links.md: 614
+📈 [Injection Molding] Total Unique Links in links.md: 614
+📈 [Injection Molding] Total Unique Links in links.md: 614
+📈 [Injection Molding] Total Unique Links in links.md: 614
+✨ [Injection Molding | Wuxi China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 615
+📈 [Injection Molding] Total Unique Links in links.md: 615
+📈 [Injection Molding] Total Unique Links in links.md: 615
+✨ [Injection Molding | Wuxi China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 617
+✨ [Injection Molding | Wuxi China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 618
+✨ [Injection Molding | Wuxi China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 619
+📈 [Injection Molding] Total Unique Links in links.md: 619
+✨ [Injection Molding | Kunshan China] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 621
+📈 [Injection Molding] Total Unique Links in links.md: 621
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Wuxi China': HTTPConnectionPool(host='localhost', port=64118): Read timed out. (read timeout=120)
+📈 [Injection Molding] Total Unique Links in links.md: 621
+📈 [Injection Molding] Total Unique Links in links.md: 621
+✨ [Injection Molding | Kunshan China] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 622
+📈 [Injection Molding] Total Unique Links in links.md: 622
+📈 [Injection Molding] Total Unique Links in links.md: 622
+✨ [Injection Molding | Houston TX] Extracted 11 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 633
+✨ [Injection Molding | Houston TX] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 634
+
+✨ [Injection Molding | Houston TX] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 635
+✨ [Injection Molding | Houston TX] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 638
+📈 [Injection Molding] Total Unique Links in links.md: 638
+
+✨ [Injection Molding | Houston TX] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 642
+📈 [Injection Molding] Total Unique Links in links.md: 642
+
+
+
+✨ [Injection Molding | Houston TX] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 644
+
+📈 [Injection Molding] Total Unique Links in links.md: 644
+
+✨ [Injection Molding | Dallas TX] Extracted 12 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 656
+✨ [Injection Molding | Dallas TX] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 657
+
+✨ [Injection Molding | Dallas TX] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 658
+✨ [Injection Molding | Dallas TX] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 660
+✨ [Injection Molding | Dallas TX] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 664
+✨ [Injection Molding | Dallas TX] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 665
+✨ [Injection Molding | Dallas TX] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 668
+📈 [Injection Molding] Total Unique Links in links.md: 668
+✨ [Injection Molding | Chicago IL] Extracted 14 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 682
+✨ [Injection Molding | Chicago IL] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 684
+✨ [Injection Molding | Chicago IL] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 686
+✨ [Injection Molding | Chicago IL] Extracted 5 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 691
+✨ [Injection Molding | Chicago IL] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 692
+📈 [Injection Molding] Total Unique Links in links.md: 692
+✨ [Injection Molding | Chicago IL] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 693
+✨ [Injection Molding | Chicago IL] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 696
+✨ [Injection Molding | Elk Grove Village IL] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 700
+📈 [Injection Molding] Total Unique Links in links.md: 700
+✨ [Injection Molding | Elk Grove Village IL] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 701
+✨ [Injection Molding | Elk Grove Village IL] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 702
+✨ [Injection Molding | Elk Grove Village IL] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 704
+✨ [Injection Molding | Elk Grove Village IL] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 706
+📈 [Injection Molding] Total Unique Links in links.md: 706
+✨ [Injection Molding | Elk Grove Village IL] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 709
+✨ [Injection Molding | Detroit MI] Extracted 13 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 722
+✨ [Injection Molding | Detroit MI] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 726
+📈 [Injection Molding] Total Unique Links in links.md: 726
+✨ [Injection Molding | Detroit MI] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 729
+✨ [Injection Molding | Detroit MI] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 731
+✨ [Injection Molding | Detroit MI] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 734
+
+✨ [Injection Molding | Detroit MI] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 735
+✨ [Injection Molding | Detroit MI] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 738
+✨ [Injection Molding | Grand Rapids MI] Extracted 13 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 751
+✨ [Injection Molding | Grand Rapids MI] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 753
+
+📈 [Injection Molding] Total Unique Links in links.md: 753
+
+✨ [Injection Molding | Grand Rapids MI] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 757
+✨ [Injection Molding | Grand Rapids MI] Extracted 5 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 762
+✨ [Injection Molding | Grand Rapids MI] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 764
+📈 [Injection Molding] Total Unique Links in links.md: 764
+✨ [Injection Molding | Grand Rapids MI] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 765
+✨ [Injection Molding | Cleveland OH] Extracted 12 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 777
+✨ [Injection Molding | Grand Rapids MI] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 779
+
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Cleveland OH': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x00000001049166fa chromedriver + 7001850
+1   chromedriver                        0x00000001042de365 chromedriver + 480101
+2   chromedriver                        0x000000010431c77e chromedriver + 735102
+3   chromedriver                        0x0000000104318e1b chromedriver + 720411
+4   chromedriver                        0x000000010436857a chromedriver + 1045882
+5   chromedriver                        0x0000000104367c3c chromedriver + 1043516
+6   chromedriver                        0x0000000104326944 chromedriver + 776516
+7   chromedriver                        0x0000000104327711 chromedriver + 780049
+8   chromedriver                        0x00000001048d6097 chromedriver + 6738071
+9   chromedriver                        0x00000001048da596 chromedriver + 6755734
+10  chromedriver                        0x00000001048b6b14 chromedriver + 6609684
+11  chromedriver                        0x00000001048db012 chromedriver + 6758418
+12  chromedriver                        0x00000001048a67f0 chromedriver + 6543344
+13  chromedriver                        0x00000001049027a8 chromedriver + 6920104
+14  chromedriver                        0x000000010490293c chromedriver + 6920508
+15  chromedriver                        0x0000000104916311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 779
+
+✨ [Injection Molding | Cleveland OH] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 783
+✨ [Injection Molding | Cleveland OH] Extracted 2 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 785
+✨ [Injection Molding | Cleveland OH] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Cincinnati OH': Message: session not created
+from disconnected: unable to connect to renderer; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010933d6fa chromedriver + 7001850
+1   chromedriver                        0x0000000108d05365 chromedriver + 480101
+2   chromedriver                        0x0000000108d49d5f chromedriver + 761183
+3   chromedriver                        0x0000000108d44827 chromedriver + 739367
+4   chromedriver                        0x0000000108d3fe1b chromedriver + 720411
+5   chromedriver                        0x0000000108d8f57a chromedriver + 1045882
+6   chromedriver                        0x0000000108d8ec3c chromedriver + 1043516
+7   chromedriver                        0x0000000108d4d944 chromedriver + 776516
+8   chromedriver                        0x0000000108d4e711 chromedriver + 780049
+9   chromedriver                        0x00000001092fd097 chromedriver + 6738071
+10  chromedriver                        0x0000000109301596 chromedriver + 6755734
+11  chromedriver                        0x00000001092ddb14 chromedriver + 6609684
+12  chromedriver                        0x0000000109302012 chromedriver + 6758418
+13  chromedriver                        0x00000001092cd7f0 chromedriver + 6543344
+14  chromedriver                        0x00000001093297a8 chromedriver + 6920104
+15  chromedriver                        0x000000010932993c chromedriver + 6920508
+16  chromedriver                        0x000000010933d311 chromedriver + 7000849
+17  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Cincinnati OH': Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010514d6fa chromedriver + 7001850
+1   chromedriver                        0x0000000104b15365 chromedriver + 480101
+2   chromedriver                        0x0000000104b534fe chromedriver + 734462
+3   chromedriver                        0x0000000104b4fe1b chromedriver + 720411
+4   chromedriver                        0x0000000104b9f57a chromedriver + 1045882
+5   chromedriver                        0x0000000104b9ec3c chromedriver + 1043516
+6   chromedriver                        0x0000000104b5d944 chromedriver + 776516
+7   chromedriver                        0x0000000104b5e711 chromedriver + 780049
+8   chromedriver                        0x000000010510d097 chromedriver + 6738071
+9   chromedriver                        0x0000000105111596 chromedriver + 6755734
+10  chromedriver                        0x00000001050edb14 chromedriver + 6609684
+11  chromedriver                        0x0000000105112012 chromedriver + 6758418
+12  chromedriver                        0x00000001050dd7f0 chromedriver + 6543344
+13  chromedriver                        0x00000001051397a8 chromedriver + 6920104
+14  chromedriver                        0x000000010513993c chromedriver + 6920508
+15  chromedriver                        0x000000010514d311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Charlotte NC': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Birmingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Manchester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Manchester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Leeds UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Leeds UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Nottingham UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Windsor Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Windsor Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'custom injection molding company in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 788
+📈 [Injection Molding] Total Unique Links in links.md: 788
+✨ [Injection Molding | Cincinnati OH] Extracted 11 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 799
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Cleveland OH': HTTPConnectionPool(host='localhost', port=56717): Read timed out. (read timeout=120)
+📈 [Injection Molding] Total Unique Links in links.md: 799
+⚠️ [Injection Molding] Error on 'custom injection molding company in Melbourne Australia': Message: session not created
+from disconnected: unable to connect to renderer; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x0000000101c276fa chromedriver + 7001850
+1   chromedriver                        0x00000001015ef365 chromedriver + 480101
+2   chromedriver                        0x0000000101633d5f chromedriver + 761183
+3   chromedriver                        0x000000010162e827 chromedriver + 739367
+4   chromedriver                        0x0000000101629e1b chromedriver + 720411
+5   chromedriver                        0x000000010167957a chromedriver + 1045882
+6   chromedriver                        0x0000000101678c3c chromedriver + 1043516
+7   chromedriver                        0x0000000101637944 chromedriver + 776516
+8   chromedriver                        0x0000000101638711 chromedriver + 780049
+9   chromedriver                        0x0000000101be7097 chromedriver + 6738071
+10  chromedriver                        0x0000000101beb596 chromedriver + 6755734
+11  chromedriver                        0x0000000101bc7b14 chromedriver + 6609684
+12  chromedriver                        0x0000000101bec012 chromedriver + 6758418
+13  chromedriver                        0x0000000101bb77f0 chromedriver + 6543344
+14  chromedriver                        0x0000000101c137a8 chromedriver + 6920104
+15  chromedriver                        0x0000000101c1393c chromedriver + 6920508
+16  chromedriver                        0x0000000101c27311 chromedriver + 7000849
+17  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 799
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Cleveland OH': HTTPConnectionPool(host='localhost', port=56940): Read timed out. (read timeout=120)
+✨ [Injection Molding | Melbourne Australia] Extracted 14 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 813
+✨ [Injection Molding | Melbourne Australia] Extracted 4 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 817
+✨ [Injection Molding | Melbourne Australia] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 820
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Melbourne Australia': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010411a6fa chromedriver + 7001850
+1   chromedriver                        0x0000000103ae2365 chromedriver + 480101
+2   chromedriver                        0x0000000103b2077e chromedriver + 735102
+3   chromedriver                        0x0000000103b1ce1b chromedriver + 720411
+4   chromedriver                        0x0000000103b6c57a chromedriver + 1045882
+5   chromedriver                        0x0000000103b6bc3c chromedriver + 1043516
+6   chromedriver                        0x0000000103b2a944 chromedriver + 776516
+7   chromedriver                        0x0000000103b2b711 chromedriver + 780049
+8   chromedriver                        0x00000001040da097 chromedriver + 6738071
+9   chromedriver                        0x00000001040de596 chromedriver + 6755734
+10  chromedriver                        0x00000001040bab14 chromedriver + 6609684
+11  chromedriver                        0x00000001040df012 chromedriver + 6758418
+12  chromedriver                        0x00000001040aa7f0 chromedriver + 6543344
+13  chromedriver                        0x00000001041067a8 chromedriver + 6920104
+14  chromedriver                        0x000000010410693c chromedriver + 6920508
+15  chromedriver                        0x000000010411a311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 820
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Melbourne Australia': Message: session not created
+from disconnected: unable to connect to renderer; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010ae576fa chromedriver + 7001850
+1   chromedriver                        0x000000010a81f365 chromedriver + 480101
+2   chromedriver                        0x000000010a863d5f chromedriver + 761183
+3   chromedriver                        0x000000010a85e827 chromedriver + 739367
+4   chromedriver                        0x000000010a859e1b chromedriver + 720411
+5   chromedriver                        0x000000010a8a957a chromedriver + 1045882
+6   chromedriver                        0x000000010a8a8c3c chromedriver + 1043516
+7   chromedriver                        0x000000010a867944 chromedriver + 776516
+8   chromedriver                        0x000000010a868711 chromedriver + 780049
+9   chromedriver                        0x000000010ae17097 chromedriver + 6738071
+10  chromedriver                        0x000000010ae1b596 chromedriver + 6755734
+11  chromedriver                        0x000000010adf7b14 chromedriver + 6609684
+12  chromedriver                        0x000000010ae1c012 chromedriver + 6758418
+13  chromedriver                        0x000000010ade77f0 chromedriver + 6543344
+14  chromedriver                        0x000000010ae437a8 chromedriver + 6920104
+15  chromedriver                        0x000000010ae4393c chromedriver + 6920508
+16  chromedriver                        0x000000010ae57311 chromedriver + 7000849
+17  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 820
+✨ [Injection Molding | Melbourne Australia] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 823
+📈 [Injection Molding] Total Unique Links in links.md: 823
+📈 [Injection Molding] Total Unique Links in links.md: 823
+📈 [Injection Molding] Total Unique Links in links.md: 823
+✨ [Injection Molding | Melbourne Australia] Extracted 5 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 828
+✨ [Injection Molding | Brisbane Australia] Extracted 14 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Brisbane Australia': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010f78d6fa chromedriver + 7001850
+1   chromedriver                        0x000000010f155365 chromedriver + 480101
+2   chromedriver                        0x000000010f19377e chromedriver + 735102
+3   chromedriver                        0x000000010f18fe1b chromedriver + 720411
+4   chromedriver                        0x000000010f1df57a chromedriver + 1045882
+5   chromedriver                        0x000000010f1dec3c chromedriver + 1043516
+6   chromedriver                        0x000000010f19d944 chromedriver + 776516
+7   chromedriver                        0x000000010f19e711 chromedriver + 780049
+8   chromedriver                        0x000000010f74d097 chromedriver + 6738071
+9   chromedriver                        0x000000010f751596 chromedriver + 6755734
+10  chromedriver                        0x000000010f72db14 chromedriver + 6609684
+11  chromedriver                        0x000000010f752012 chromedriver + 6758418
+12  chromedriver                        0x000000010f71d7f0 chromedriver + 6543344
+13  chromedriver                        0x000000010f7797a8 chromedriver + 6920104
+14  chromedriver                        0x000000010f77993c chromedriver + 6920508
+15  chromedriver                        0x000000010f78d311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Brisbane Australia': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x00000001050456fa chromedriver + 7001850
+1   chromedriver                        0x0000000104a0d365 chromedriver + 480101
+2   chromedriver                        0x0000000104a4b77e chromedriver + 735102
+3   chromedriver                        0x0000000104a47e1b chromedriver + 720411
+4   chromedriver                        0x0000000104a9757a chromedriver + 1045882
+5   chromedriver                        0x0000000104a96c3c chromedriver + 1043516
+6   chromedriver                        0x0000000104a55944 chromedriver + 776516
+7   chromedriver                        0x0000000104a56711 chromedriver + 780049
+8   chromedriver                        0x0000000105005097 chromedriver + 6738071
+9   chromedriver                        0x0000000105009596 chromedriver + 6755734
+10  chromedriver                        0x0000000104fe5b14 chromedriver + 6609684
+11  chromedriver                        0x000000010500a012 chromedriver + 6758418
+12  chromedriver                        0x0000000104fd57f0 chromedriver + 6543344
+13  chromedriver                        0x00000001050317a8 chromedriver + 6920104
+14  chromedriver                        0x000000010503193c chromedriver + 6920508
+15  chromedriver                        0x0000000105045311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+⚠️ [Injection Molding] Error on 'custom injection molding company in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'custom injection molding company in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'plastic injection molding manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'custom injection molding company in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'thermoplastic molding supplier in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'precision injection molding shop in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'medical injection molding manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'automotive plastic injection molder in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'insert molding manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+⚠️ [Injection Molding] Error on 'overmolding manufacturing company in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [Injection Molding] Total Unique Links in links.md: 842
+✨ [Injection Molding | Brisbane Australia] Extracted 3 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 845
+✨ [Injection Molding | Brisbane Australia] Extracted 1 NEW company websites!
+📈 [Injection Molding] Total Unique Links in links.md: 846
+📈 [Injection Molding] Total Unique Links in links.md: 846
+
+🎉 [Injection Molding] Complete! Added 288 new company websites to links.md.
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser %  
+

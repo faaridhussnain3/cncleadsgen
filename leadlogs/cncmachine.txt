@@ -1,0 +1,915 @@
+Last login: Mon Aug 31 16:54:01 on ttys012
+source venv/bin/activate && python3 cnc_machining_scraper.py
+
+mmx@192 cnc leadser % source venv/bin/activate && python3 cnc_machining_scraper.py
+⚙️  Starting CATEGORY 1: CNC Machining Scraper...
+📊 Initial Unique Links in links.md: 558 / Goal: 5000
+
+📋 Total CNC Machining Tasks Prepared: 424 search queries.
+
+📈 [CNC Machining] Total Unique Links in links.md: 558
+📈 [CNC Machining] Total Unique Links in links.md: 558
+📈 [CNC Machining] Total Unique Links in links.md: 558
+📈 [CNC Machining] Total Unique Links in links.md: 558
+✨ [CNC Machining | Shenzhen China] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 560
+📈 [CNC Machining] Total Unique Links in links.md: 560
+✨ [CNC Machining | Shenzhen China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 561
+⚠️ [CNC Machining] Error on 'contract machining shop in Shenzhen China': HTTPConnectionPool(host='localhost', port=51729): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 561
+📈 [CNC Machining] Total Unique Links in links.md: 561
+⚠️ [CNC Machining] Error on 'CNC machining shop in Dongguan China': HTTPConnectionPool(host='localhost', port=52173): Read timed out. (read timeout=120)
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Dongguan China': HTTPConnectionPool(host='localhost', port=52184): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 561
+📈 [CNC Machining] Total Unique Links in links.md: 561
+✨ [CNC Machining | Dongguan China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+📈 [CNC Machining] Total Unique Links in links.md: 562
+✨ [CNC Machining | Ningbo China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 563
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Ningbo China': HTTPConnectionPool(host='localhost', port=54328): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 563
+✨ [CNC Machining | Ningbo China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+⚠️ [CNC Machining] Error on 'contract machining shop in Suzhou China': HTTPConnectionPool(host='localhost', port=55854): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+📈 [CNC Machining] Total Unique Links in links.md: 564
+✨ [CNC Machining | Qingdao China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 565
+✨ [CNC Machining | Qingdao China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+📈 [CNC Machining] Total Unique Links in links.md: 566
+✨ [CNC Machining | Wenzhou China] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 568
+✨ [CNC Machining | Wenzhou China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 569
+✨ [CNC Machining | Wenzhou China] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 571
+✨ [CNC Machining | Wenzhou China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 572
+✨ [CNC Machining | Wenzhou China] Extracted 3 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 575
+✨ [CNC Machining | Tianjin China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 576
+✨ [CNC Machining | Tianjin China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 577
+📈 [CNC Machining] Total Unique Links in links.md: 577
+📈 [CNC Machining] Total Unique Links in links.md: 577
+📈 [CNC Machining] Total Unique Links in links.md: 577
+
+
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Tianjin China': HTTPConnectionPool(host='localhost', port=61869): Read timed out. (read timeout=120)
+
+📈 [CNC Machining] Total Unique Links in links.md: 577
+✨ [CNC Machining | Tianjin China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 578
+📈 [CNC Machining] Total Unique Links in links.md: 578
+✨ [CNC Machining | Changzhou China] Extracted 3 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 581
+📈 [CNC Machining] Total Unique Links in links.md: 581
+📈 [CNC Machining] Total Unique Links in links.md: 581
+✨ [CNC Machining | Changzhou China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 582
+✨ [CNC Machining | Changzhou China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 583
+📈 [CNC Machining] Total Unique Links in links.md: 583
+📈 [CNC Machining] Total Unique Links in links.md: 583
+✨ [CNC Machining | Changzhou China] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 585
+✨ [CNC Machining | Wuxi China] Extracted 6 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 591
+📈 [CNC Machining] Total Unique Links in links.md: 591
+✨ [CNC Machining | Wuxi China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 592
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Wuxi China': HTTPConnectionPool(host='localhost', port=64121): Read timed out. (read timeout=120)
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Wuxi China': HTTPConnectionPool(host='localhost', port=64188): Read timed out. (read timeout=120)
+✨ [CNC Machining | Wuxi China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 593
+✨ [CNC Machining | Wuxi China] Extracted 3 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 596
+✨ [CNC Machining | Wuxi China] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 598
+📈 [CNC Machining] Total Unique Links in links.md: 598
+📈 [CNC Machining] Total Unique Links in links.md: 598
+
+📈 [CNC Machining] Total Unique Links in links.md: 598
+📈 [CNC Machining] Total Unique Links in links.md: 598
+📈 [CNC Machining] Total Unique Links in links.md: 598
+✨ [CNC Machining | Kunshan China] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 599
+
+📈 [CNC Machining] Total Unique Links in links.md: 599
+
+
+📈 [CNC Machining] Total Unique Links in links.md: 599
+📈 [CNC Machining] Total Unique Links in links.md: 599
+
+
+📈 [CNC Machining] Total Unique Links in links.md: 599
+
+
+✨ [CNC Machining | Houston TX] Extracted 4 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 603
+⚠️ [CNC Machining] Error on 'contract machining shop in Kunshan China': HTTPConnectionPool(host='localhost', port=50038): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 603
+✨ [CNC Machining | Houston TX] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 605
+📈 [CNC Machining] Total Unique Links in links.md: 605
+📈 [CNC Machining] Total Unique Links in links.md: 605
+
+📈 [CNC Machining] Total Unique Links in links.md: 605
+✨ [CNC Machining | Houston TX] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 607
+✨ [CNC Machining | Houston TX] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 608
+📈 [CNC Machining] Total Unique Links in links.md: 608
+📈 [CNC Machining] Total Unique Links in links.md: 608
+✨ [CNC Machining | Dallas TX] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 610
+✨ [CNC Machining | Dallas TX] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 612
+✨ [CNC Machining | Dallas TX] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 613
+📈 [CNC Machining] Total Unique Links in links.md: 613
+✨ [CNC Machining | Dallas TX] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 614
+📈 [CNC Machining] Total Unique Links in links.md: 614
+✨ [CNC Machining | Chicago IL] Extracted 12 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 626
+✨ [CNC Machining | Chicago IL] Extracted 5 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 631
+✨ [CNC Machining | Chicago IL] Extracted 5 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 636
+✨ [CNC Machining | Chicago IL] Extracted 4 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 640
+✨ [CNC Machining | Chicago IL] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 642
+✨ [CNC Machining | Chicago IL] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 644
+✨ [CNC Machining | Chicago IL] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 645
+✨ [CNC Machining | Chicago IL] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 646
+✨ [CNC Machining | Elk Grove Village IL] Extracted 9 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 655
+✨ [CNC Machining | Elk Grove Village IL] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 656
+📈 [CNC Machining] Total Unique Links in links.md: 656
+✨ [CNC Machining | Elk Grove Village IL] Extracted 4 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 660
+
+📈 [CNC Machining] Total Unique Links in links.md: 660
+✨ [CNC Machining | Elk Grove Village IL] Extracted 5 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 665
+✨ [CNC Machining | Elk Grove Village IL] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 667
+📈 [CNC Machining] Total Unique Links in links.md: 667
+✨ [CNC Machining | Detroit MI] Extracted 10 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 677
+
+✨ [CNC Machining | Detroit MI] Extracted 8 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 685
+✨ [CNC Machining | Detroit MI] Extracted 4 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 689
+✨ [CNC Machining | Detroit MI] Extracted 3 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 692
+✨ [CNC Machining | Detroit MI] Extracted 6 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 698
+
+✨ [CNC Machining | Detroit MI] Extracted 4 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 702
+📈 [CNC Machining] Total Unique Links in links.md: 702
+
+✨ [CNC Machining | Detroit MI] Extracted 1 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 703
+✨ [CNC Machining | Detroit MI] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 705
+✨ [CNC Machining | Grand Rapids MI] Extracted 15 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Grand Rapids MI': Message: tab crashed
+  (Session info: chrome=150.0.7871.125)
+
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Grand Rapids MI': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'contract machining shop in Grand Rapids MI': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC machining shop in Cleveland OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Cleveland OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Cleveland OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Cleveland OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Cleveland OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Cleveland OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Cleveland OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Cleveland OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC machining shop in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Cincinnati OH': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC machining shop in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Los Angeles CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in San Jose CA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'contract machining shop in San Jose CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Anaheim CA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Indianapolis IN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Milwaukee WI': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Pittsburgh PA': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Charlotte NC': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Charlotte NC': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'contract machining shop in Phoenix AZ': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC machining shop in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'contract machining shop in Minneapolis MN': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'CNC machining shop in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Birmingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in London UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in London UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in London UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+📈 [CNC Machining] Total Unique Links in links.md: 720
+✨ [CNC Machining | Grand Rapids MI] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 722
+✨ [CNC Machining | Grand Rapids MI] Extracted 2 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 724
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Grand Rapids MI': HTTPConnectionPool(host='localhost', port=56724): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 724
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Manchester UK': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010319c6fa chromedriver + 7001850
+1   chromedriver                        0x0000000102b64365 chromedriver + 480101
+2   chromedriver                        0x0000000102ba277e chromedriver + 735102
+3   chromedriver                        0x0000000102b9ee1b chromedriver + 720411
+4   chromedriver                        0x0000000102bee57a chromedriver + 1045882
+5   chromedriver                        0x0000000102bedc3c chromedriver + 1043516
+6   chromedriver                        0x0000000102bac944 chromedriver + 776516
+7   chromedriver                        0x0000000102bad711 chromedriver + 780049
+8   chromedriver                        0x000000010315c097 chromedriver + 6738071
+9   chromedriver                        0x0000000103160596 chromedriver + 6755734
+10  chromedriver                        0x000000010313cb14 chromedriver + 6609684
+11  chromedriver                        0x0000000103161012 chromedriver + 6758418
+12  chromedriver                        0x000000010312c7f0 chromedriver + 6543344
+13  chromedriver                        0x00000001031887a8 chromedriver + 6920104
+14  chromedriver                        0x000000010318893c chromedriver + 6920508
+15  chromedriver                        0x000000010319c311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [CNC Machining] Total Unique Links in links.md: 724
+📈 [CNC Machining] Total Unique Links in links.md: 724
+📈 [CNC Machining] Total Unique Links in links.md: 724
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Manchester UK': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010bc5b6fa chromedriver + 7001850
+1   chromedriver                        0x000000010b623365 chromedriver + 480101
+2   chromedriver                        0x000000010b66177e chromedriver + 735102
+3   chromedriver                        0x000000010b65de1b chromedriver + 720411
+4   chromedriver                        0x000000010b6ad57a chromedriver + 1045882
+5   chromedriver                        0x000000010b6acc3c chromedriver + 1043516
+6   chromedriver                        0x000000010b66b944 chromedriver + 776516
+7   chromedriver                        0x000000010b66c711 chromedriver + 780049
+8   chromedriver                        0x000000010bc1b097 chromedriver + 6738071
+9   chromedriver                        0x000000010bc1f596 chromedriver + 6755734
+10  chromedriver                        0x000000010bbfbb14 chromedriver + 6609684
+11  chromedriver                        0x000000010bc20012 chromedriver + 6758418
+12  chromedriver                        0x000000010bbeb7f0 chromedriver + 6543344
+13  chromedriver                        0x000000010bc477a8 chromedriver + 6920104
+14  chromedriver                        0x000000010bc4793c chromedriver + 6920508
+15  chromedriver                        0x000000010bc5b311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [CNC Machining] Total Unique Links in links.md: 724
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Manchester UK': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x000000010f58b6fa chromedriver + 7001850
+1   chromedriver                        0x000000010ef53365 chromedriver + 480101
+2   chromedriver                        0x000000010ef9177e chromedriver + 735102
+3   chromedriver                        0x000000010ef8de1b chromedriver + 720411
+4   chromedriver                        0x000000010efdd57a chromedriver + 1045882
+5   chromedriver                        0x000000010efdcc3c chromedriver + 1043516
+6   chromedriver                        0x000000010ef9b944 chromedriver + 776516
+7   chromedriver                        0x000000010ef9c711 chromedriver + 780049
+8   chromedriver                        0x000000010f54b097 chromedriver + 6738071
+9   chromedriver                        0x000000010f54f596 chromedriver + 6755734
+10  chromedriver                        0x000000010f52bb14 chromedriver + 6609684
+11  chromedriver                        0x000000010f550012 chromedriver + 6758418
+12  chromedriver                        0x000000010f51b7f0 chromedriver + 6543344
+13  chromedriver                        0x000000010f5777a8 chromedriver + 6920104
+14  chromedriver                        0x000000010f57793c chromedriver + 6920508
+15  chromedriver                        0x000000010f58b311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [CNC Machining] Total Unique Links in links.md: 724
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Manchester UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 724
+⚠️ [CNC Machining] Error on 'contract machining shop in Manchester UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 724
+✨ [CNC Machining | London UK] Extracted 13 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 737
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Sheffield UK': Message: tab crashed
+  (Session info: chrome=150.0.7871.125)
+
+⚠️ [CNC Machining] Error on 'CNC machining shop in Sheffield UK': Message: tab crashed
+  (Session info: chrome=150.0.7871.125)
+
+📈 [CNC Machining] Total Unique Links in links.md: 737
+📈 [CNC Machining] Total Unique Links in links.md: 737
+📈 [CNC Machining] Total Unique Links in links.md: 737
+✨ [CNC Machining | Manchester UK] Extracted 13 NEW company websites!
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Sheffield UK': Message: session not created: Failed to create Chrome process.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x0000000104d556fa chromedriver + 7001850
+1   chromedriver                        0x000000010471d365 chromedriver + 480101
+2   chromedriver                        0x000000010475b77e chromedriver + 735102
+3   chromedriver                        0x0000000104757e1b chromedriver + 720411
+4   chromedriver                        0x00000001047a757a chromedriver + 1045882
+5   chromedriver                        0x00000001047a6c3c chromedriver + 1043516
+6   chromedriver                        0x0000000104765944 chromedriver + 776516
+7   chromedriver                        0x0000000104766711 chromedriver + 780049
+8   chromedriver                        0x0000000104d15097 chromedriver + 6738071
+9   chromedriver                        0x0000000104d19596 chromedriver + 6755734
+10  chromedriver                        0x0000000104cf5b14 chromedriver + 6609684
+11  chromedriver                        0x0000000104d1a012 chromedriver + 6758418
+12  chromedriver                        0x0000000104ce57f0 chromedriver + 6543344
+13  chromedriver                        0x0000000104d417a8 chromedriver + 6920104
+14  chromedriver                        0x0000000104d4193c chromedriver + 6920508
+15  chromedriver                        0x0000000104d55311 chromedriver + 7000849
+16  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+17  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Sheffield UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Sheffield UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Coventry UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Leeds UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Leicester UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Leicester UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Nottingham UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Bristol UK': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Bristol UK': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Toronto Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Toronto Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Montreal Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Montreal Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Montreal Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Montreal Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Vancouver Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Calgary Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Mississauga Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC machining shop in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Hamilton Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'contract machining shop in Cambridge Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Windsor Canada': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Sydney Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Melbourne Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Brisbane Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Perth Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Adelaide Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC machining shop in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision CNC milling manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'swiss screw machining shop in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'custom CNC components manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'CNC turning manufacturer in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'contract machining shop in Dandenong Australia': [Errno 35] Resource temporarily unavailable
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on 'precision engineering machine shop in Sheffield UK': Message: session not created
+from disconnected: unable to connect to renderer; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+0   chromedriver                        0x00000001055c56fa chromedriver + 7001850
+1   chromedriver                        0x0000000104f8d365 chromedriver + 480101
+2   chromedriver                        0x0000000104fd1d5f chromedriver + 761183
+3   chromedriver                        0x0000000104fcc827 chromedriver + 739367
+4   chromedriver                        0x0000000104fc7e1b chromedriver + 720411
+5   chromedriver                        0x000000010501757a chromedriver + 1045882
+6   chromedriver                        0x0000000105016c3c chromedriver + 1043516
+7   chromedriver                        0x0000000104fd5944 chromedriver + 776516
+8   chromedriver                        0x0000000104fd6711 chromedriver + 780049
+9   chromedriver                        0x0000000105585097 chromedriver + 6738071
+10  chromedriver                        0x0000000105589596 chromedriver + 6755734
+11  chromedriver                        0x0000000105565b14 chromedriver + 6609684
+12  chromedriver                        0x000000010558a012 chromedriver + 6758418
+13  chromedriver                        0x00000001055557f0 chromedriver + 6543344
+14  chromedriver                        0x00000001055b17a8 chromedriver + 6920104
+15  chromedriver                        0x00000001055b193c chromedriver + 6920508
+16  chromedriver                        0x00000001055c5311 chromedriver + 7000849
+17  libsystem_pthread.dylib             0x00007ff80410d514 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff80410902f thread_start + 15
+
+📈 [CNC Machining] Total Unique Links in links.md: 750
+📈 [CNC Machining] Total Unique Links in links.md: 750
+⚠️ [CNC Machining] Error on '5-axis CNC machining manufacturer in Sheffield UK': HTTPConnectionPool(host='localhost', port=58213): Read timed out. (read timeout=120)
+📈 [CNC Machining] Total Unique Links in links.md: 750
+
+🎉 [CNC Machining] Complete! Added 192 new company websites to links.md.
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+(venv) mmx@192 cnc leadser % 
+
