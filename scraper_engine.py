@@ -31,8 +31,19 @@ def setup_driver():
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
+    options.add_argument('--disable-software-rasterizer')
+    options.add_argument('--disable-extensions')
+    options.add_argument('--disable-infobars')
+    options.add_argument('--window-size=1280,800')
+    options.add_argument('--remote-debugging-port=9222')
     options.add_argument('user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
-    return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    
+    # Increase page load timeout to prevent "Read timed out"
+    options.page_load_strategy = 'eager'
+    
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    driver.set_page_load_timeout(60) # Fail fast on stalled pages instead of 120s hang
+    return driver
 
 def load_existing_links():
     links = set()
